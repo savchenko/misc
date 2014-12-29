@@ -1,3 +1,14 @@
+# -*- coding: utf-8 -*-
+# --------------------------------------------------------------
+#
+# Andrew Savchenko © 2012
+# art@artaman.net
+#
+# Attribution 4.0 International (CC BY 4.0)
+# http://creativecommons.org/licenses/by/4.0/
+#
+# --------------------------------------------------------------
+
 from time import gmtime, strftime
 import re, sys, os, time
 import preflight

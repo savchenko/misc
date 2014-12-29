@@ -12,8 +12,6 @@ def System():
     elif platform == "win32":
         print "> Windows detected."
 
-
-# noinspection PyUnusedLocal
 def Storage():
     """
     Checking for config storage and create if necessary
@@ -29,12 +27,10 @@ def Storage():
     else:
         pass
 
-
 def configParser(DIR, SET):
     """
     :param DIR: [directory] in .ini file
     :param SET: setting = value within [directory]
-    :return:
     """
     config = ConfigParser.RawConfigParser()
     config.read("./pmConfig.ini")

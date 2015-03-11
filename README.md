@@ -1,4 +1,4 @@
 Miscellaneous
 ====
 
-Small things that make life easier.
+~~Small~~ Old things that ~~make~~ made my life easier years ago.

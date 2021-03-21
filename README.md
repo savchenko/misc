@@ -1,4 +1,4 @@
 Miscellaneous
 ====
 
-Small things.
+Various little things.
